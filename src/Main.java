@@ -27,7 +27,7 @@ public class Main {
                     int intnow = now.getYear();
                     int check = intnow - intbirh;
 
-                    if (check>=0){
+                    if (check>=18){
                         System.out.print("\nВам есть 18 лет!");
                     }
                     else{
